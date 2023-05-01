@@ -7,7 +7,7 @@ Scrum Master - Dorian Patterson
 
 Scribe - Jan Sevilla
 
-Team Members 
+Team Members -
 
 Chris Boamah Mensah,
 
