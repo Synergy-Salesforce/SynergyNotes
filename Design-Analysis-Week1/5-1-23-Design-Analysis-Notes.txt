@@ -1,0 +1,43 @@
+- Breaking up Epic into story points. - 
+	- As a baseline consolidate the user epics.
+	- Based on the users (tenants/possible tenants) to break down the Epic stories. Use cases for each individual one and propritize which one we will work on focusing on that tenants first. 
+	- Potential Tenants as a base and focus on it first. 
+
+- Use cases
+- Home Page Potential Tenant (Without Logging In/Registering)
+	- User Object(?) - Self Registration
+	- Css a use case needs to be done.
+		- Creating a responsive page being device-aware.
+	- Header Component
+		- Navigation.
+		- Logo.
+	- Section Body
+		- Hero.
+		- View Properties.
+		- Property Page - Property Detail Page - Home Page Dynamically Show available Property 
+			-  Custom Object - 6 Records - Address Fields - Text Body Field - Title Field - Availability Checkbox
+			- Property Needs: Image of property/Other Images - Text of Property - Title of Property
+			- Static Resources(?)
+			- Trigger/Flow Update Availability Checkbox checking child unit object.
+			- Child object in reference to the Unit. 
+	- Experience Page 
+		- How to Create an Experience Site.
+		- How to let users register.
+		- Login/Logout Functionality. 
+	- Application/Registration Page
+		- Record Type - Tenant/NonTenant
+		- Contact/Account(?) Modify RecordType - Tenant/NonTenant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
