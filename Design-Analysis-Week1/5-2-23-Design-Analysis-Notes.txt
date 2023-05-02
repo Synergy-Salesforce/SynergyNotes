@@ -1,0 +1,11 @@
+- Accomplished - 5/2/23
+	- NonTenants user stories
+	- Ideas of what objects will be used.
+
+
+- Research Needs - 5/2/23
+
+- Experience Site/Self Registration - what is it? how to make one?
+- Ensure what objects will be used and create an ERD.
+- Research on Package Development. What type of Package Development to use?
+- LWC in general. 
