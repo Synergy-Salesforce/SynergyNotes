@@ -1,0 +1,41 @@
+ERD Information - 
+
+- Refer to Project Use Case on Project 3 Trello Board to see the listed Objects 
+
+- Property Custom Object (aka House) - 
+	- Parent to Unit Object
+	- Surface Detail of the Property (Can reference property as a House/Apartment)
+	- Property Record Type
+- Unit Custom Object
+	- Details within the Property
+	- Child to Property
+	- Lookup to Application
+- Image Custom Object - Apparently there is a Standard Image Object
+	- to learn more on how to do so
+		-https://help.salesforce.com/s/articleView?id=000385501&type=1
+	- Lookup to Property
+	- Lookup to Unit
+- User Standard Object
+	- Record Type
+	- Profiles
+	- Lookup to Application
+- Tour Custom Object
+	- Contains the user information to request a tour.
+	- Status on checking Completed/Scheduled
+	- Lookup to User.
+- Application Custom Object
+	- Contains the user information.
+	- 
+- Amenities Custom Object
+	- Child to Property
+
+
+- Image Formula
+- https://help.salesforce.com/s/articleView?id=000385501&type=1
+
+- Self Registration Reference
+- https://help.salesforce.com/s/articleView?id=sf.external_identity_create_registration_page.htm&type=5
+- https://trailhead.salesforce.com/content/learn/modules/identity_external
+
+- Guest Users Reference
+- https://help.salesforce.com/s/articleView?id=sf.rss_config_guest_user_profile.htm&type=5
