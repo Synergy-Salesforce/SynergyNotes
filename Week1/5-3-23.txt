@@ -1,0 +1,28 @@
+5/3/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked on process automation super badge – some concepts were difficult but would like to go over such topics.
+•	Reviewed on process builders and workflows for interview prep.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Interview prep study as well as studied for PD1 Exam
+•	Completed an entire trailhead module on Lightning Components – Creating custom events, lightning messaging service and creating a service imperatively. 
+•	Today
+•	Plans for flex time is to continue to work on more trailhead.
+Jan Sevilla - Scribe
+•	Yesterday – 
+•	Completed trailhead modules relating to Service Cloud – Working on Service Cloud Specialist SuperBadge – Completed Service Cloud for Lightning Components Module
+Chris Boamah Mensah
+•	Yesterday – 
+•	Continue to study and review for PD1 Exam. Focusing mostly on the UI topic – LWC, Aura, Visual force on Focus on Force.
+David Melech
+•	Yesterday – 
+•	Reviewed and study the Interview questions spreadsheet.
+Taylor Billingsley
+•	Yesterday – 
+•	Worked on lightning web component trailhead module.
+•	Worked on trailhead modules on topics that were not the strongest on.
+•	Worked on java scripts self-project – reviewing and studying notes – did some trailhead badges relating to java script.
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked a trailhead module on Lightning Components – issue VScode just stop working would not push code.
