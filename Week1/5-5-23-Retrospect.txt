@@ -5,5 +5,5 @@ Retrospect:
 -	We were able to get things decided on quickly – getting the ERD done.
 -	Good communication overall with the team.
 
--	Improvements:
+-	Improvements to work on:
 -	N/A
