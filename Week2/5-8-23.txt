@@ -1,0 +1,28 @@
+5/8/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked on self-project to work on component communications – Child to parent – parent to child 
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Worked on super badge – Approval Process – setting up and concepts.
+•	Accomplished on getting the PD1 Cert.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Loom practice on interview questions.
+•	Worked on service cloud specialist super badge on trailhead.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Worked on LWC module on Trailhead
+David Melech
+•	Yesterday – 
+•	Reviewed the Excel spreadsheet working on topics weak on.
+•	Reviewed Service Badge as well as other badges on trailhead
+•	Worked on project 3 by working out the make up of the epic seeing how many points is in total.
+•	Worked on creating the logos as well as capturing images for the properties location.
+Taylor Billingsley
+•	Yesterday – 
+•	Worked on adding a live chat feature for project 3 – However the component is only available for aura components and is seeing how to add it into LWC
+•	Review on topics not comfortable with regarding the interview questions.
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked on LWC module on trailhead.
