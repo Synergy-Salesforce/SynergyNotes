@@ -1,0 +1,37 @@
+5/9/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Reviewed lwc foundation topics.
+•	Worked on the main container for project 3 and researched on how to render the components.
+•	Completed the Hero component as well as doing a bit of the banner component on project 3.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Worked on single location component – most of the function is working only needing the propertyID
+•	Issue – scratch org seems a bit cumbersome needing the metadata for it.
+•	Reviewed and studied notes for the QC.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Worked on the assigned use case for Project 3 – the unit component in the single location detail page. Most of the functionality works.
+•	Worked on scratch org setup.
+•	Today
+•	Plan to connect with Dorian on the single location detail page component.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Completed some LWC trailhead module as well as Approval Process module.
+•	Today
+•	Plans to start the component today and complete it.
+David Melech
+•	Yesterday – 
+•	Worked on the project 3 assigned use cases – objects and fields.
+•	Reviewed notes and studied topics for the cumulative QC
+•	Today
+•	Plans to get the scratch org running and complete the component assigned.
+Taylor Billingsley
+•	Yesterday – 
+•	Worked on the flow for the assigned use case on project 3 – schedule tour changing status to schedule and changing availability.
+•	Today
+•	Plans to work on the flow deeper creating another flow.
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked on a couple of the main custom object for project 3.
+•	Worked on LMS with integrated apex. Would like to do some research to apply it on project component.
