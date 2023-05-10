@@ -1,0 +1,37 @@
+5/10/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked and communicated with people on integrating components to the container component.
+•	Worked with Nicholas on retrieving the recordID
+•	Today
+•	Plans to work with team members and ensure that the recordID is being pass to the right components.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Worked on the single location component only needs to integrate to the other components
+•	Worked on the challenges having a basic structure for the aura challenge.
+•	Today
+•	Plans to finish the aura component assigned by Ethan.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Completed the Aura challenged assigned by Ethan
+•	Today
+•	Work on the last challenge Ethan assigned – Async
+•	Complete the assigned use case for project 3 – Unit component on the single location page.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Worked on the assigned use case – creating the application page
+•	Today
+•	Work on the assigned challenges Ethan assigned on Async and Aura.
+David Melech
+•	Yesterday – 
+•	Completed the location page for project 3.
+•	Today
+•	Plans to focus on the challenges Ethan assigned on Async and Aura.
+Taylor Billingsley
+•	Yesterday – 
+•	Researched and review on what to improve and add onto the flow for the project 3 tour.
+•	Today
+•	Plans to work on the assigned challenges – aura and async
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked on the assigned use case – home page component - only needing to work on styling.
