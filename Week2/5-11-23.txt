@@ -1,0 +1,32 @@
+5/11/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked with Nicholas on assisting integrating component into the main component. Renders the page to updating the homepage.
+•	Worked on the coding challenges assigned by Ethan – Aura Challenges and Batchable Apex.
+•	Today
+•	Plans to complete the assigned coding challenges.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Worked on the assigned challenges by Ethan – Aura Challenges and Batchable Apex
+•	Worked on the assigned project 3 use case – Single Location Page - Images are being presented using the file container in Salesforce.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Completed the assigned coding challenges by Ethan – Aura Challenges and Batchable Apex.
+•	Worked on the assigned project 3 use case – Unit component – Images are being presented using a related object field url. Working on Styling.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Worked on the challenges assigned by Ethan – Aura challenges and Batchable Apex
+•	Today
+•	Plans to work on the project 3 assigned use case. – Application page. – Styling and integrating to main component.
+David Melech
+•	Yesterday – 
+•	Completed the assigned use case for project 3 – 
+•	Worked with Nicholas on his assigned use case – Location pages -  on styling.
+•	Worked on the assigned challenges by Ethan – Aura challenge and Batchable Apex.
+Taylor Billingsley
+•	Yesterday – 
+•	Worked on the flow that is call by an LWC. A form with a component that allows user to request a tour.
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked on styling for the assigned use case. – Completed it and just needs to be integrated into the main component.
+•	Worked on the assigned challenges from Ethan – issues with aura challenge.
