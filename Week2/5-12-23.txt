@@ -1,0 +1,32 @@
+5/12/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked on integrating components – Worked with Dorian merging his component – As well as Taylor’s component – David component as well aligning it to the correct position.
+•	Today
+•	Plans to work on the login component.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Worked on integrating the unit component to the property component.
+•	Worked on adding styling to the property component.
+•	Pushed the property component that integrated the child unit component into GitHub.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Worked on completing the Unit component.
+•	Worked on the styling of the unit component.
+•	Send the unit component to Dorian for integrating it to his property component.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Worked on the hamburger menu for project 3. Has some issues regarding the layering of the hamburger menu. 
+David Melech
+•	Yesterday – 
+•	Worked on the bugged that occurred on the homepage of project 3.
+•	Worked on the CSS styling for the main page of project 3.
+•	Checked out as a guest user on entering the experience site of project 3 – seems like there are some issues regarding the forms.
+•	Today
+•	Plans to start the next epic of project 3.
+Taylor Billingsley
+•	Yesterday – 
+•	Reviewed notes and studied material of the assigned self-studies.
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked on assessing the bugged that occurred on the homepage of project 3.
