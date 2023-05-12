@@ -1,0 +1,44 @@
+5/9/2023
+Sam Kuhn – Team Leader
+•	Positive – Velocity 2 – Hero Component – Integrating Components
+•	Performed integrating every team member component to the main component.
+•	Things to Improve
+•	Love to have a more define structure plan, setup a Github org and be more experience on working with Github.
+
+Dorian Patterson – Scrum Master
+•	Positive – Single Location Detail page - 11
+•	Appreciate the assistance and the support on accomplishing the components.
+•	Things to Improve
+•	Would have love to use GitHub more as a team. Would like to have use package base development instead. Felt that the project's structure on moving forward were vague.
+
+Jan Sevilla – Scribe
+•	Team Positive – Unit Component – Velocity 3
+•	Communication with everyone regarding solving issues were amazing
+•	Things to Improve
+•	Vague structure on moving forward on the project.
+
+Chris Boamah Mensah
+•	Positive – Application Form – Hamburger
+•	Appreciate team members on assisting the use cases and providing support.
+•	Things to Improve
+•	N/A
+
+David Melech
+•	Positive – Location List Page– Custom Objects
+•	Communications between members were great especially in debugging issues and integrating components.
+•	Things to Improve
+•	Research more on Experience site.
+
+Taylor Billingsley
+•	Positive -  Velocity 5 – Tour registration.
+•	Appreciate the communication despite the issues that were occurring.
+•	Things to Improve
+•	Tunnel Vision on wanting to integrate a component not seeing it is too complex and would have like to have done a simpler solution instead.
+
+Nicholas Kroeger
+•	Positives – Home page feature Location - Velocity 10
+•	Learned a lot on developing LWC and integrating components.
+•	Things to Improve
+•	Unfortunately, issues occurred would have like to use best practices to improve on idea on developing components.
+
+
