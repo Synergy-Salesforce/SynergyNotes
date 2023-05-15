@@ -1,11 +1,11 @@
-- Home Page - 
-Request to tour is lined up should be lower even to the homepage card.
-- Properties with availability text - could be center and smaller - off set in mobile
+- Home Page -
+- Request to tour is lined up should be lower and even to the homepage card.
+- Properties with availability text - could be center and smaller - it is off set in mobile
 - padding in general could be use on the request a tour and the properties with availability text
 - padding on the text in the request a tour form
 
 -Single Location page - 
-- Picture is too large - hides the dots when the device screen is small.
+- Picture is too large - hides the carousel dots  when the device screen is small. - caraousel doesn't work properly in mobile
 - padding on the single location would be nice
 - a background color to the card 
 - font colors to yellow(?)/white(?)
