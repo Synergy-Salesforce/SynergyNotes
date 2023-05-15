@@ -1,0 +1,51 @@
+- Home Page - 
+Request to tour is lined up should be lower even to the homepage card.
+- Properties with availability text - could be center and smaller - off set in mobile
+- padding in general could be use on the request a tour and the properties with availability text
+- padding on the text in the request a tour form
+
+-Single Location page - 
+- Picture is too large - hides the dots when the device screen is small.
+- padding on the single location would be nice
+- a background color to the card 
+- font colors to yellow(?)/white(?)
+- pill or badges blue styling on the fieldname
+
+- header nav section
+- header is a bit too big - probably due to the image size - hides link in mobile
+- nav links should be right center of the block
+
+- location list
+- align justify to the top - since it seems like they are align towards the center
+- padding on the description text
+
+- Application page
+- background color
+- color scheme away from salesforce i.e. buttons
+- general padding
+
+- unit component
+- card should be the same size
+- background main container off white
+- card could be blue
+- text could be white
+- border(?)
+- drop shadow on the card
+
+
+3-5 presentation practice before presenting
+
+
+background color - off white
+component background color - blue(?)
+white text/yellow text(?)
+have consistent color scheme
+
+
+Ethan suggestion to have a
+- main container component
+	- header component contains nav
+	- content container sits below the div and conditional rendering
+		- width to 80% and margin to auto - center content push everything in ensuring a bit of white space
+
+
