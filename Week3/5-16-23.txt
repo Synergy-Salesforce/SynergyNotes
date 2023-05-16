@@ -1,0 +1,38 @@
+5/16/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked on the assigned use case – managing household use case Lease. Assisted by David on solving issue that is sharing settings were not correct.
+•	Today
+•	Plans to work on CSS styling for the functional components.
+•	Plans to assist team members on any components.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Removed the carousel from the single location page.
+•	Added styling from the recommendation that Ethan and others have said.
+•	Today
+•	Plans to assist others on their use case.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Worked on the assigned use case for project 3 – Vehicle component.
+•	Today
+•	Plans to work on CSS for both components – Unit component and Vehicle Component
+Chris Boamah Mensah
+•	Yesterday – 
+•	Worked on the maintenance page – it is functional however there are a bit of topics on access wanting to discuss.
+•	Today
+•	Plans to tie up loose ends on maintenance.
+•	Plans to work on the balance use case.
+David Melech
+•	Yesterday – 
+•	Completed the assigned use case for project 3 – Household members component
+•	Worked and assisted Jan on his use case.
+•	Poked around with the security settings with Sam.
+•	Today
+•	Plans to assist others on their use cases.
+•	Work on CSS styling.
+Taylor Billingsley
+•	Yesterday – 
+•	Worked on assigned use case for project 3 – 80% complete for the household pet component.
+Nicholas Kroeger
+•	Yesterday – 
+•	Worked on the assigned use case for project 3 – Needs some research on active user – Vacancy Component

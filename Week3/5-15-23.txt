@@ -1,0 +1,37 @@
+5/15/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Attempted to take the Salesforce App builder exam; however, issues with internet so had to reschedule it.
+•	General studying and review for interview on Tuesday.
+•	Today
+•	Plans to work on the assigned use case for project 3.
+•	Continue studying topics for interview.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Completed a super badge on troubleshooting user access
+•	Reviewed and studied for the interview.
+•	Today
+•	Plans to work on the project.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Study and review interview questions.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Study and review interview questions.
+David Melech
+•	Yesterday – 
+•	Worked on finishing the mobile capabilities of the project.
+•	Worked on assigned component and integrate it into the org and experience site with the right SOQL statement.
+•	Today
+•	Plans to continue to work on the use case.
+•	Study for interview.
+Taylor Billingsley
+•	Yesterday – 
+•	Worked on the assigned component for project 3
+•	Today
+•	Plans to complete the assigned use case
+•	Study and review interview questions.
+Nicholas Kroeger
+•	Yesterday – 
+•	Study and review interview questions.
+
