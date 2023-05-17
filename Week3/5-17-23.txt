@@ -1,0 +1,36 @@
+5/17/2023
+Sam Kuhn – Team Leader
+•	Yesterday – 
+•	Worked on styling on the main container.
+•	Updated GitHub main branch with the latest version of everyone’s data. – Except the manage household page
+•	Today
+•	Plans to work on project presentation.
+Dorian Patterson – Scrum Master
+•	Yesterday – 
+•	Finalized styling for the assigned use cases as well as assisted others.
+•	Today
+•	Plans to work on project presentation.
+Jan Sevilla – Scribe
+•	Yesterday – 
+•	Worked on styling assigned component – unit component
+•	Interview prep
+•	Today
+•	Interview schedule at 11:00AM EST.
+Chris Boamah Mensah
+•	Yesterday – 
+•	Completed styling for component
+•	Today
+•	Plans to work on presentation for project 3.
+David Melech
+•	Yesterday – 
+•	Completed the CSS for the household maintenance page.
+•	Created a PowerPoint draft for the project 3 presentation.
+Taylor Billingsley
+•	Yesterday – 
+•	Reviewed and studied notes and module on trailhead on general topics.
+Nicholas Kroeger
+•	Yesterday – 
+•	Completed the assigned use case – vacancy - for the household component
+•	Completed styling for Homepage.
+•	Today
+•	Plans to prep for interview schedule at 11:30AM EST
