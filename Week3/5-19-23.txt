@@ -1,0 +1,39 @@
+5/19/2023
+Retrospective 
+Sam Kuhn – Team Leader
+•	Positives - 
+•	Happy that we did well on our planning/management on staging our project.
+•	Things to improve –
+•	Working with GitHub and ensuring that we have the latest version in our source of truth.
+•	Debugging could improve in general.
+Dorian Patterson – Scrum Master
+•	Positives - 
+•	Overall proud of everyone that we were able to put together at plan in action quickly and delivering within a short time a working and functional site.
+•	Things to improve – 
+•	A bit more planning – design.
+Jan Sevilla – Scribe
+•	Positives - 
+•	Proud that everyone did great with the given time allotted.
+•	Things to improve – 
+•	Planning stage do a bit more research so we can avoid spending time during development.
+Chris Boamah Mensah
+•	Positives - 
+•	Similarly what Taylor/Dorian said we got something working within the limited time.
+•	Things to improve
+•	A bit more organization.
+David Melech
+•	Positives - 
+•	Presentation went well – everything went great.
+•	Things to improve - 
+•	Unique scenario – could have pushed the boundaries a bit more.
+Taylor Billingsley
+•	Positives - 
+•	The site looks amazing – everyone had a great idea where to start when we started. 
+•	We did do a planning process but for how short the sprint was – Felt like it was pretty good.
+•	Things to improve
+•	Maintenance on the Trello board.
+Nicholas Kroeger
+•	Positives - 
+•	Time management was great most of the things got done within the intended time.
+•	Things to improve
+•	Some functionalities show error could be avoidable.
